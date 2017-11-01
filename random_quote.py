@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 
-import urllib, json
+import urllib.request, json
 
 class Quote:
        
